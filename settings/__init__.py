@@ -1,1 +1,1 @@
-from settings.develop import *
+
