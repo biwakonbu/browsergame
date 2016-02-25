@@ -1,0 +1,10 @@
+## Emacs files
+\#*
+\#*~
+*.*~
+
+## py compile file
+*.pyc
+
+## sqlite3 database file
+db.sqlite3
